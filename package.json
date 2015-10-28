@@ -1,0 +1,15 @@
+{
+  "name": "hello-docker-dms..ers",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Demo app for Docker CI dms demo",
+  "main": "app.js",
+  "author": "Douglas Strickland <noemial@noemail.com>",
+  "license": "No license",
+  "dependencies": {
+    "express": "3.2.4",
+    "jade": "1.11.0",
+    "mocha": "1.20.1",
+    "supertest": "1.1.0"
+  }
+}
